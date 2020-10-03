@@ -1,0 +1,18 @@
+{
+  "name": "framework9",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/zardoy/framework9.git",
+  "author": "Vitaly Turovsky <vital2580@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/styles": "^4.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.50",
+    "@vkontakte/vkui": "^3.12.6"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
