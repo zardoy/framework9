@@ -6,7 +6,7 @@
   "author": "Vitaly Turovsky <vital2580@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "@material-ui/styles": "^4.10.0"
+    "@material-ui/styles": "^4.11.2"
   },
   "devDependencies": {
     "@types/react": "^16.9.50",
