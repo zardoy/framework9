@@ -9,7 +9,7 @@
     "@material-ui/styles": "^4.10.0"
   },
   "devDependencies": {
-    "@types/react": "^16.9.50",
+    "@types/react": "^17.0.0",
     "@vkontakte/vkui": "^3.12.6"
   },
   "peerDependencies": {
